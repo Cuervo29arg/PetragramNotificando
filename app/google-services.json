@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619915105239",
+    "firebase_url": "https://petagram-coursera.firebaseio.com",
+    "project_id": "petagram-coursera",
+    "storage_bucket": "petagram-coursera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619915105239:android:d630502d97d3bbe9",
+        "android_client_info": {
+          "package_name": "com.christiancollado.petagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619915105239-9vrok43768i81l4mffmjgt03tkn5m0rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.christiancollado.petagram",
+            "certificate_hash": "1E068D29D5E001930492688FC03A54BCD8ECC99C"
+          }
+        },
+        {
+          "client_id": "619915105239-sjs9o4rnvffbq425aqptqtfuv42tqm57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrnzRMF3BLpS0lMfIjCAOrTDz9JCrkKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619915105239-sjs9o4rnvffbq425aqptqtfuv42tqm57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

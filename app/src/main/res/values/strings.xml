@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre_mascota">Foto</string>
+    <string name="puntuacion_mascota">1</string>
+    <string name="mascotas_favoritas">Mascotas Favoritas</string>
+    <string name="ajustes_mascotas"> Hola :)</string>
+    <string name="texto_contacto">Contacto</string>
+    <string name="texto_about">Acerca de</string>
+    <string name="contacto_nombre">Tu nombre</string>
+    <string name="contacto_email">Tu email</string>
+    <string name="contacto_mensaje">Escribe aquí tu mesaje</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="info_desarrollador">Sobre el desarrollador: </string>
+    <string name="nombre_desarrollador">Nombre: Christian Collado</string>
+    <string name="email_desarrollador">EMail:   ChristianColladoRuiz@gmail.com</string>
+    <string name="twitter_desarrollador">Twitter:   @CCollado_R"</string>
+    <string name="nombre_mascota_dummy">Gato</string>
+    <string name="hint_config_cuenta">Introduce una cuenta de usuario</string>
+    <string name="nombre_cuenta">Cuenta</string>
+    <string name="text_config">Configura tu cuenta</string>
+    <string name="text_notif">Recibir notificaciones</string>
+
+</resources>

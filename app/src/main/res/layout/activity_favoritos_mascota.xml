@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="py.com.mcespedes.petagram.activity.FavoritosMascota"
+android:background="@color/colorPrimary">
+
+<include android:id="@+id/miActionBar"
+    layout="@layout/actionbar"
+    ></include>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/misfavoritos"
+    android:layout_below="@+id/miActionBar"
+    android:id="@+id/tvFavoritos"
+    android:textSize="@dimen/texfav"
+    android:textColor="@color/colorAccent"
+    android:textStyle="bold"
+    android:paddingLeft="@dimen/card_titulo"
+    android:paddingTop="@dimen/activity_horizontal_margin"
+    />
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/rvMascotasFav"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:layout_below="@+id/tvFavoritos"
+    />
+
+</RelativeLayout>
